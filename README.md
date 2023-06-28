@@ -1,2 +1,2 @@
-# ProgramacaoMobile
-Aula programação mobile
+# Mobile
+Programação Mobile com JS
